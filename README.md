@@ -1,2 +1,3 @@
 # OSproject1
-repository for operating systems 2023 project 1
+please use "gcc producer.c -lrt -o producer && gcc consumer.c -lrt -o consumer"
+and "./consumer & ./producer" to run
